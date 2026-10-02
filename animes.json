@@ -1,0 +1,30 @@
+{
+  "jjk": {
+    "nombre": "Jujutsu Kaisen",
+    "hashtags": "#JujutsuKaisen #Sukuna #Gojo #Anime #Shorts"
+  },
+  "aot": {
+    "nombre": "Attack on Titan",
+    "hashtags": "#AttackOnTitan #ShingekiNoKyojin #Eren #Anime #Shorts"
+  },
+  "solo_leveling": {
+    "nombre": "Solo Leveling",
+    "hashtags": "#SoloLeveling #SungJinwoo #Anime #Manhwa #Shorts"
+  },
+  "kaiju": {
+    "nombre": "Kaiju No. 8",
+    "hashtags": "#KaijuNo8 #KafkaHibino #Anime #Shorts"
+  },
+  "chainsaw": {
+    "nombre": "Chainsaw Man",
+    "hashtags": "#ChainsawMan #Denji #Makima #Anime #Shorts"
+  },
+  "frieren": {
+    "nombre": "Frieren",
+    "hashtags": "#Frieren #SousouNoFrieren #Anime #Shorts"
+  },
+  "dbz": {
+    "nombre": "Dragon Ball Z",
+    "hashtags": "#DragonBall #Goku #Vegeta #Anime #Shorts"
+  }
+}
