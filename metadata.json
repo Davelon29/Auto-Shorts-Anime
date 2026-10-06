@@ -1,0 +1,8 @@
+{
+  "name": "Auto Shorts Anime Studio",
+  "description": "Automated YouTube Shorts anime production pipeline with AI script generation, clip sequencing, dynamic subtitle overlays, and publishing scheduler.",
+  "prompt": "Auto Shorts Anime automated video creation and scheduling platform",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
